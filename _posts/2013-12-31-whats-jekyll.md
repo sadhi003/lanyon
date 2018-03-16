@@ -1,12 +1,9 @@
 ---
 layout: post
-title: What's Jekyll?
+title: English Writing Practice
 ---
+Improving the writing skill mostly depend on how much worth of pratice you put on it. Here are some links that can be use one way or other to horne your writing ability. 
 
-[Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
+1. [This blog post explain the website and their features.](https://www.myenglishteacher.eu/blog/51-websites-that-help-you-to-improve-writing-skills-in-english/) 
 
-  > Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
 
-It's an immensely useful tool and one we encourage you to use here with Lanyon.
-
-Find out more by [visiting the project on GitHub](https://github.com/mojombo/jekyll).
